@@ -5,7 +5,7 @@
 
 **Scope:** README, original PDFs, text transcripts, SHA-256 source provenance, rights/visibility boundary, governance applicability, pending agreement record. No active implementation.
 
-**Acceptance:** public org repository; two original PDF SHA-256 checks verified; two full transcriptions; direct Musikfonds announcement link; identical paired skills; no CV/contact data, secrets or private agreements publicly committed; clean pushed commit witnessed.
+**Acceptance:** public org repository; two original PDF SHA-256 checks verified; two full transcriptions; direct Musikfonds announcement link; identical paired skills; no confidential agreements, applicant data or secrets; artist Vita permitted specifically for public release; clean pushed commit witnessed.
 
 **State:** repository initialized. The final acceptance of publication requires checking the actual pushed tree, not this document alone.
 
@@ -25,3 +25,12 @@
 - One physically recorded sand gesture, one controlled Csound response and, only if demonstrably feasible, bounded physical vibration and return to the sand.
 - Record acoustic and visual evidence and safety conditions. Consider MIDI-CI instrument discovery only when there are two real interoperating software capabilities to discover.
 - Reuse owning Fountain Coach implementations; do not create duplicated infrastructure.
+
+
+## 4 — Karl Heinz Jerons erste Kritikrunde
+
+- Originaldatei `Outer%20Ear.pdf` (2 Seiten) wiedergefunden und unverändert übernommen als `feedback/originals/Outer_Ear.pdf`, mit eigenem Transkript.
+- Die Künstler-Vita wurde nach der ausdrücklich berichteten spezifischen Freigabe von Karl Heinz Jeron als Quelle und Texttranskript aufgenommen.
+- Erste Projektskizze, Jerons Kritik und die neue Antwortfassung bleiben getrennt.
+- Alpha 0.2 antwortet auf die sechs Punkte mit einer vorgeschlagenen Werkstatt und Beteiligungsstruktur. Dieser Entwurf ist noch nicht gemeinsam vereinbart oder eingereicht.
+- Acceptance: Hash-Abgleich aller Original-PDFs, Git-Push, überprüfter GitHub-Baum, keine GitHub Actions, FCIS-Skill-Mirror unverändert.

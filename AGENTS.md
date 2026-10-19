@@ -4,7 +4,7 @@
 - This repository owns only **public project documentation and source provenance**, not the Rhizoglyph artwork, MIDI 2.0 implementation, Teatro runtime, applicant account, private grant papers or any execution authority.
 - Preserve source PDFs byte-identically. Keep faithful Markdown transcriptions separate from interpretative or revised project texts.
 - Label **proposed / tested / approved / funded / released** states honestly. A named collaborator or PDF heading does not constitute their signed agreement.
-- This repo is PUBLIC: never commit unreleased agreements, artist contact data or CVs with private phone numbers, private correspondence, signatures, grant portal details, secrets or confidential financial records without rights and privacy clearance.
+- This repo is PUBLIC: never commit unreleased agreements, private correspondence, signatures, grant portal details, credentials, confidential financial records or personal information without rights and privacy review. Karl Heinz Jeron's artist Vita is a specific exception, published on the initiator's explicit report of his permission; no other material is licensed by this.
 - Observe [Fountain Coach FCIS Publication and Source Policy](https://github.com/Fountain-Coach/.github/blob/main/docs/FCIS-Publication-and-Source-Policy.md). No project-specific instructions override the organization's standards.
 - Runtime components belong to their existing owner repositories. No second MIDI2, Teatro, Csound or FCIS-KIT execution authority here.
 - An implementation, accessibility, visual or on-device model feature needs independent applicable FCIS review and evidence. A project document does not establish runtime acceptance.

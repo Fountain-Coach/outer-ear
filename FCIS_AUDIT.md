@@ -5,7 +5,7 @@
 | Requirement | Classification | Evidence / condition |
 | --- | --- | --- |
 | RFC 0001 four instruction layers | DOCUMENTED | AGENTS (law), PLANS (intent), paired source-intake skills (how), external tools (capability) |
-| FCIS publication & source policy | APPLICABLE | Original documents are public working sketches; uploaded private-contact CV withheld pending approval; docs/publication-and-rights.md |
+| FCIS publication & source policy | APPLICABLE | Original documents, artist Vita and first critique are source-archived; Vita publication permission specifically reported by project initiator; docs/publication-and-rights.md |
 | Original source provenance | DOCUMENTED | documents/SOURCES.md, source SHA-256; independent tree/bytes verification remains mandatory |
 | FCIS-KIT 1.3 | NOT YET TRIGGERED | No kit is published or consumed in this documentary repository; future instrument execution requires owner-specific review |
 | FCIS-AX | NOT YET TRIGGERED | No new running app or interactive interface |

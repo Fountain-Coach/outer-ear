@@ -23,7 +23,7 @@ Angestrebt ist ein **tragbares, möglichst akkubetriebenes Instrument**, das den
 | [Projektskizze, 18. Oktober](originals/Rhizoglyph_Sandzeichnen_Projektskizze.pdf) | [Markdown](transcripts/Rhizoglyph_Sandzeichnen_Projektskizze.md) |
 | [Antragsweg, 19. Oktober](originals/Rhizoglyph_Sandzeichnen_Musikfonds_Antragsweg_2026.pdf) | [Markdown](transcripts/Rhizoglyph_Sandzeichnen_Musikfonds_Antragsweg_2026.md) |
 
-Die PDFs sind die Originale, die Markdown-Dateien durch Zeilenumbruchbereinigung lesbare **Transkripte, keine neuen Fassungen**. Integrität und Dubletten: [SOURCES.md](documents/SOURCES.md). Der eingereichte Künstler-Lebenslauf ist wegen der darin enthaltenen persönlichen Kontaktdaten **nicht** öffentlich eingecheckt.
+Die PDFs sind die Originale, die Markdown-Dateien durch Zeilenumbruchbereinigung lesbare **Transkripte, keine neuen Fassungen**. Integrität und Dubletten: [SOURCES.md](documents/SOURCES.md). Karl Heinz Jerons Vita ist nach seiner ausdrücklich berichteten Veröffentlichungsfreigabe öffentlich archiviert, einschließlich der von ihm angegebenen beruflichen Kontaktdaten.
 
 ## Offene Aufgaben
 
@@ -34,3 +34,10 @@ Antragstellende Person und Verantwortlichkeiten bestimmen; Rechte und Zustimmung
 **FCIS:** [AGENTS.md](AGENTS.md) · [Anwendbarkeit der Organisationsstandards](docs/FCIS-APPLICABILITY.md) · [Initialaudit](FCIS_AUDIT.md) · [Rechte/Öffentlichkeit](docs/publication-and-rights.md).
 
 Keine Open-Source- oder Creative-Commons-Lizenz für die künstlerischen Originale ist durch die Anlage dieses öffentlichen Repositories erteilt. Urheberrechte verbleiben bei ihren Inhabern.
+
+
+## Erste Kritikrunde und Alpha 0.2
+
+[Karl Heinz Jerons erste Kritikrunde „Outer Ear“](feedback/README.md) liegt als [unverändertes Original-PDF](feedback/originals/Outer_Ear.pdf) und [wortgetreues Markdown-Transkript](feedback/transcripts/Outer_Ear.md) vor. Die [freigegebene Künstler-Vita (Original)](originals/Karl_Heinz_Jeron_CV_de.pdf) und ihr [Transkript](transcripts/Karl_Heinz_Jeron_CV_de.md) sind ebenfalls archiviert.
+
+Die [Projektfassung Alpha 0.2](drafts/Rhizoglyph_Sandzeichnen_Alpha_02.md) reagiert auf diese Kritik mit einem konkreten gemeinschaftlichen Spielablauf. [Zuordnung der sechs Kritikpunkte](drafts/Bezug_auf_Kritikrunde_01.md). **Diese Fassung ist ein noch nicht gemeinsam freigegebener Arbeitsentwurf** und ersetzt weder die erste Skizze noch die Kritik.
