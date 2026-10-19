@@ -41,3 +41,12 @@ Keine Open-Source- oder Creative-Commons-Lizenz für die künstlerischen Origina
 [Karl Heinz Jerons erste Kritikrunde „Outer Ear“](feedback/README.md) liegt als [unverändertes Original-PDF](feedback/originals/Outer_Ear.pdf) und [wortgetreues Markdown-Transkript](feedback/transcripts/Outer_Ear.md) vor. Die [freigegebene Künstler-Vita (Original)](originals/Karl_Heinz_Jeron_CV_de.pdf) und ihr [Transkript](transcripts/Karl_Heinz_Jeron_CV_de.md) sind ebenfalls archiviert.
 
 Die [Projektfassung Alpha 0.2](drafts/Rhizoglyph_Sandzeichnen_Alpha_02.md) reagiert auf diese Kritik mit einem konkreten gemeinschaftlichen Spielablauf. [Zuordnung der sechs Kritikpunkte](drafts/Bezug_auf_Kritikrunde_01.md). **Diese Fassung ist ein noch nicht gemeinsam freigegebener Arbeitsentwurf** und ersetzt weder die erste Skizze noch die Kritik.
+
+
+## Karl Heinz Jerons Projektbeschreibung v2 und begleitende Reflexion
+
+Die am 19. Oktober 2026 vorgelegte [Projektbeschreibung v2](originals/Rhizoglyph_Sandzeichnen_Karl_Heinz_Jeron_v2.pdf) wurde von Karl Heinz Jeron erarbeitet und ist hier als unverändertes [Original-PDF](originals/Rhizoglyph_Sandzeichnen_Karl_Heinz_Jeron_v2.pdf) und [Markdown-Transkript](transcripts/Rhizoglyph_Sandzeichnen_Karl_Heinz_Jeron_v2.md) archiviert.
+
+Die anschließende [Reflexion „Das Pennälerhafte des Partizipativen“](reflections/README.md) ([Markdown](reflections/Das_Pennaelerhafte_des_Partizipativen.md) · [PDF-Lesefassung](reflections/Das_Pennaelerhafte_des_Partizipativen.pdf)) verdichtet einen Klärungsprozess zu Hören, Latenz, Instrumentengeschichte und musikalischer Eigenständigkeit. **Sie ordnet sich der von Karl Heinz entwickelten künstlerischen Konzeption nach**, anstatt sie durch eine neue konkurrierende Projektbeschreibung zu ersetzen.
+
+Der ältere Entwurf Alpha 0.2 bleibt als historische Zwischenfassung erhalten und ist nicht die aktuelle Arbeitsgrundlage. Für keine dieser Fassungen wird hier eine bereits gemeinsam verabschiedete Förderantragstellung behauptet.

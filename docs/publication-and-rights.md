@@ -16,3 +16,8 @@ Governing policy: https://github.com/Fountain-Coach/.github/blob/main/docs/FCIS-
 ## First critique and distinct editorial draft
 
 The unaltered, two-page critique entitled *Outer Ear* is archived on the project initiator's express direction. Its Markdown transcript is separate from the original. The Alpha 0.2 response is an editorial working proposal, not an agreement signed by Jeron, nor a submission to Musikfonds. Publication does not establish broad rights to adapt Rhizoglyph.
+
+
+## Karl Heinz project text v2 and follow-on reflection
+
+The initiator supplied Karl Heinz Jeron's second project text, titled *Rhizoglyph Sandzeichnen*, for the project's public archive. The PDF credits both artists and is preserved byte-for-byte with a source hash; its Markdown companion is identified as text extraction. The separately authored reflection *Das Pennälerhafte des Partizipativen* is an editorial synthesis of the initiator's clarification conversation. It is **not** a joint artistic declaration, a grant application, nor an amendment of the KH text. Source publication does not grant a blanket license to reuse the artist's Rhizoglyph forms.

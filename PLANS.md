@@ -34,3 +34,12 @@
 - Erste Projektskizze, Jerons Kritik und die neue Antwortfassung bleiben getrennt.
 - Alpha 0.2 antwortet auf die sechs Punkte mit einer vorgeschlagenen Werkstatt und Beteiligungsstruktur. Dieser Entwurf ist noch nicht gemeinsam vereinbart oder eingereicht.
 - Acceptance: Hash-Abgleich aller Original-PDFs, Git-Push, überprüfter GitHub-Baum, keine GitHub Actions, FCIS-Skill-Mirror unverändert.
+
+
+## 5 — Karl Heinz v2 and reflection on participation (19 October 2026)
+
+- Preserve the exact 3-page Karl Heinz v2 PDF and accessible extracted Markdown beside earlier proposal history.
+- Preserve the separately authored reflective essay *Das Pennälerhafte des Partizipativen* in Markdown plus a checked reader PDF, without replacing or editing Karl Heinz's v2.
+- Keep three provenance layers distinct: original Karl Heinz project document, older assistant draft Alpha 0.2, and later redaction of Benedikt's conversational clarification.
+- The reflection treats learning, memory, latency, autonomous initiative and parallel musical processes as artistic intentions. Technical capability claims must be demonstrated separately; no fictional implementation acceptance.
+- No messages sent to Karl Heinz as part of this archive work. Future public grant submission remains an independent, explicitly approved act.

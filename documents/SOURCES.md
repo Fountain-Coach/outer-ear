@@ -22,3 +22,13 @@ Transcription normalization: PDF line wraps and page breaks converted to Markdow
 | [Karl Heinz Jeron – Vita](../originals/Karl_Heinz_Jeron_CV_de.pdf) | `a0ae78edfabd74593873334b2a59a76f5383cbee1b794f5093b3e6226b825d42` | 2 | [Markdown](../transcripts/Karl_Heinz_Jeron_CV_de.md) |
 
 Die Kritik stammt aus `Desktop/outer-ear/Outer%20Ear.pdf`. Der Dateiname wurde für Git lesbar normalisiert, der PDF-Inhalt ist unverändert. Ein genaues Datum der Kritik steht nicht im Dokument. Die Originaldateien werden nicht mit den editorischen Antworttexten verwechselt.
+
+
+## Ergänzung – Projektbeschreibung v2 und Reflexion
+
+| Quelle | Status | SHA-256 | Lesefassung |
+| --- | --- | --- | --- |
+| [Rhizoglyph Sandzeichnen, v2 (PDF)](../originals/Rhizoglyph_Sandzeichnen_Karl_Heinz_Jeron_v2.pdf) | Original, von Karl Heinz Jeron erarbeitet und dem Projekt am 19.10.2026 übergeben (Urheberzeile nennt beide Künstler); PDF selbst ohne Verfassungsdatum | `c4e981e0e67a2a1cc964b91e7a8a563477ad8c7b3aa3ae15df30cf40fa1d9da0` | [Markdown-Textextraktion](../transcripts/Rhizoglyph_Sandzeichnen_Karl_Heinz_Jeron_v2.md) |
+| [Das Pennälerhafte des Partizipativen](../reflections/Das_Pennaelerhafte_des_Partizipativen.pdf) | redaktionelle Verdichtung des Klärungsgesprächs, 19.10.2026; kein Originalwortlaut des Dialogs | PDF-Lesefassung, abgeleitet aus Markdown | [Markdown-Quelltext](../reflections/Das_Pennaelerhafte_des_Partizipativen.md) |
+
+Die v2 lag auf dem Mac als `A%20v2%20Rhizoglyph%20Sandzeichnen.pdf` (3 Seiten) vor. In Git wurde lediglich der **Dateiname** normalisiert. Bytegenaue Integrität ist mit der angegebenen SHA-256-Prüfsumme nachprüfbar. Das Transkript ist eine extrahierte Lesefassung, **nicht** die autoritative Gestaltungsvorlage. Der Reflexionstext ist eine redaktionelle Ausarbeitung, kein von Karl Heinz verfasstes Dokument.
