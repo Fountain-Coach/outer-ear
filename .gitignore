@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+._*
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+private/
+unpublished/
+out/
+tmp/
+__pycache__/
